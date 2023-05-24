@@ -1,0 +1,14 @@
+.imagen-galeria {
+  display: center;
+  width: 300px;
+  flex-wrap: wrap;
+  gap: 10px;
+}
+.imagen-galeria:hover {
+  opacity: 0.5;
+  cursor: pointer;
+}
+.titulo {
+  text-align: center;
+  color: green;
+}
